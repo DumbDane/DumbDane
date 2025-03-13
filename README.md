@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) 
 
 # 🧌 Touching Grass:
+![](https://nirzak-streak-stats.vercel.app/?user=DumbDane&theme=dark&mode=weekly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=DumbDane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DumbDane&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DumbDane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
